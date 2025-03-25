@@ -1,6 +1,18 @@
 # Franka_Emika_Panda_Robot_Arm
 
-- Bu benim bilgisayar mühendisliği bitirme projemdir. Bu proje insan kolunu eş zamanlı olarak taklit ederek simülasyon koluna entegre ederek eş zamanlı bir takip sağlatmaktadır.
+## Detection of Human Movements: Using the MediaPipe library, 
+joint points were successfully detected and the angle values ​​between these points were calculated in real time.
+was calculated. The coordinates of the joint points are obtained accurately during the image processing process. 
+Angles were determined using the vector-based angle calculation method. 
+
+## Simulation Environment and Interaction: Robot with objects such as tables and boxes defined in the PyBullet environment 
+The arm has successfully interacted. This shows that the robot arm can work in harmony with the environment. 
+shows.Real-time simulation has been able to quickly imitate human movements. 
+
+
+## Imitation Ability of Robot Arm: Franka Panda robot arm in PyBullet simulation environment, 
+It was moved successfully according to the angle values ​​taken from MediaPipe. robot arm 
+joints (shoulder, elbow, wrist) human movements
 
 ```
 pip install -r requirements.txt
