@@ -15,3 +15,5 @@ tall colorama
 ```
 pip install mediapipe
 ```
+
+https://visualstudio.microsoft.com/visual-cpp-build-tools/
