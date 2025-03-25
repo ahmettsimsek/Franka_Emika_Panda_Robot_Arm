@@ -75,6 +75,9 @@ And
 
 https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
+
+--------------------------------------------------------------------------------------------------------------
+
 ![Image](https://github.com/user-attachments/assets/af0aade0-7760-4829-9958-6b9d88e0e328)
 ![Image](https://github.com/user-attachments/assets/14da9f36-f5e2-42e4-b53f-e61e4f5cc400)
 ![Image](https://github.com/user-attachments/assets/3ff04522-9bfc-4d15-a00a-4dada104e8aa)
